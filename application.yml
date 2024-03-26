@@ -1,7 +1,7 @@
 global:
   params:
-    a : 6666
-    b : 9999
+    a : 111
+    b : 222
 
 
 spring:
