@@ -1,0 +1,15 @@
+agency :
+  params :
+    x : 11
+    y : 22
+
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/agency
+    username: youness
+    password: admin
+
+
+
+
