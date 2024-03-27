@@ -3,9 +3,8 @@ activity :
     x : 6969
     y : 9696
 
-
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/agency
+    url: jdbc:postgresql://localhost:5432/activity
     username: youness
     password: admin
