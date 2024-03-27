@@ -27,7 +27,7 @@ eureka:
     prefer-ip-address: true
   client:
     service-url:
-      defaultZone: http://localhost:8761/eureka
+      defaultZone: ${MS_TC_DISCOVERY_URL:http://localhost:8761/eureka}
 
 management:
   endpoints:
