@@ -1,2 +1,11 @@
-activity.params.x=11
-activity.params.y=22
+activity :
+  params :
+    x : 6969
+    y : 9696
+
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/agency
+    username: youness
+    password: admin
