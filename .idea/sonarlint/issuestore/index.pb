@@ -7,3 +7,5 @@ I
 ms-tc-activity.properties,f/e/fe8814c486a9a74ce261e10c9e76512ccd22eebf
 L
 ms-tc-reservation.properties,5/4/5462c97dd5ced404f6b7abe8f9a47904c96060fc
+H
+ms-tc-gateway.properties,b/d/bdc1070c1c1b9c729efe3b37d8d8ed9c6e757ec2
